@@ -1,0 +1,8 @@
+.slick-dots{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.slick-dots li{
+    width: 80px !important;
+}
